@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/holiday-photo/static/css/main.5ac5234d.css",
+    "main.js": "/holiday-photo/static/js/main.3ef9b8a3.js",
+    "static/media/Add-SVG.svg": "/holiday-photo/static/media/Add-SVG.92740475813ac2bedf49130eb9c4e0b9.svg",
+    "index.html": "/holiday-photo/index.html",
+    "main.5ac5234d.css.map": "/holiday-photo/static/css/main.5ac5234d.css.map",
+    "main.3ef9b8a3.js.map": "/holiday-photo/static/js/main.3ef9b8a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac5234d.css",
+    "static/js/main.3ef9b8a3.js"
+  ]
+}
